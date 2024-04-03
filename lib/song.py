@@ -31,4 +31,3 @@ class Song:
             Song.artist_count[self.artist] += 1
         else:
             Song.artist_count[self.artist] = 1
-
